@@ -1,0 +1,5 @@
+{
+  "name": "语文生字词默写",
+  "description": "给六-九年级小学生使用的语文生字词默写APP，支持自动生成词卡、拼音、发音、笔顺动画和手写听写功能。",
+  "requestFramePermissions": []
+}
